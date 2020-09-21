@@ -1,0 +1,17 @@
+name: InfernoBox
+version: ${project.version}
+main: org.l2x9.infernobox.Infernobox
+prefix: InfernoBox
+authors: [254n_m]
+description: Lock players in a fucken box lmao
+website: https://www.l2x9.org/
+commands:
+  infernobox:
+    description: Softban a player
+    usage: /infernobox <on | off> <player>
+    aliases:
+      - ib
+      - sb
+      - softban
+      - diddle
+      - annoy
